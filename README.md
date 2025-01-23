@@ -5,7 +5,7 @@
 
 <p align=”center”>
 
-<img width=”200" height=”200" src=”https://github.com/user-attachments/assets/8e4352b6-b163-4cd7-aae1-3f04c6b94096" alt=”my banner”>
+<img width=”200" height=”200" src=”https://github.com/user-attachments/assets/d4b82e62-6b10-4697-b8b5-e012c0148c54" alt=”my banner”>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...![github bannner](https://github.com/user-attachments/assets/8e4352b6-b163-4cd7-aae1-3f04c6b94096)
