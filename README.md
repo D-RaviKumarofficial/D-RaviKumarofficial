@@ -32,30 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=D-RaviKumarofficial&show_icons=true&theme=react-dark&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=D-RaviKumarofficial&theme=react-dark&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-RaviKumarofficial&layout=compact&theme=react-dark&hide_border=true&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=D-RaviKumarofficial&theme=react-dark&no-frame=true&no-bg=false&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark)
