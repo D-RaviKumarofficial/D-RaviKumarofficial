@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d4b82e62-6b10-4697-b8b5-e012c0148c54" alt="banner" height="200px" width="100%">
+<img src="assets/banner.png" alt="banner" height="200px" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Ravikumar D</h1>
