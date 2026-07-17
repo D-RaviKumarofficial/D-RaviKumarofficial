@@ -1,0 +1,21 @@
+name: Daily Contribution
+
+on:
+  schedule:
+    - cron: '30 18 * * *'  # Runs daily at midnight IST (18:30 UTC)
+  workflow_dispatch:
+
+jobs:
+  contribute:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Make contribution
+        run: |
+          echo "Daily contribution $(date)" >> contributions.log
+          git config user.name "Ravi Kumar"
+          git config user.email "ravikbd22@gmail.com"
+          git add .
+          git diff --staged --quiet || git commit -m "Daily contribution $(date +%Y-%m-%d)"
+          git push
