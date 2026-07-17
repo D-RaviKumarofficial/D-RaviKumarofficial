@@ -16,16 +16,6 @@
 
 ---
 
-### About Me
-
-- 💼 Currently learning Full Stack Web Development.
-- 🌱 Currently learning React and improving full-stack skills.
-- 📫 How to reach me: [ravikumar.offical2003@gmail.com](mailto:ravikumar.offical2003@gmail.com).
-- 😄 Pronouns: Ravi, Ravikumar.
-- ⚡ Fun fact: I learn new tech by building real projects.
-
----
-
 ### 💻 Tech Stack
 
 #### Frontend
@@ -42,12 +32,6 @@
 
 #### Tools
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark)
 
 ---
 
