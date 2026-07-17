@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Ravikumar D</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=true&width=1000&lines=Full+Stack+Web+Developer;Frontend+Developer;Backend+Developer;React+Developer;Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=true&width=1000&lines=AI/ML+Engineer;Specialized+in+Deep+Learning;Backend+Developer;Frontend+Developer;Full+Stack+Developer;Flutter+Developer;Learner)](https://git.io/typing-svg)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=D-RaviKumarofficial&bg_color=0D1117&color=00BFFF&line=00BFFF&area_color=00BFFF&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph)
 
