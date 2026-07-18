@@ -14,12 +14,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
       
       - name: Make contributions
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Ravi Kumar"
+          git config user.email "ravikbd22@gmail.com"
           export TZ=Asia/Kolkata
           COMMITS=$((RANDOM % 5 + 1))
           for i in $(seq 1 $COMMITS); do
