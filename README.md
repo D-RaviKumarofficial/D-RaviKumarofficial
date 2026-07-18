@@ -12,7 +12,7 @@
 
 ### 📫 Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ravikumar-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-d-535a98267/) [![Mail Badge](https://img.shields.io/badge/-ravikumar.offical2003@gmail.com-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:ravikumar.offical2003@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@idoit__fellow-e84393?style=flat&logo=instagram&logoColor=white)](https://instagram.com/idoit__fellow)
+[![Linkedin Badge](https://img.shields.io/badge/-Ravikumar-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-d-535a98267/) [![Mail Badge](https://img.shields.io/badge/-ravikumar.offical2003@gmail.com-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:ravikumar.offical2003@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-00BFFF?style=flat&logo=googlechrome&logoColor=white)](https://profile-ravi.web.app/) [![Instagram Badge](https://img.shields.io/badge/-@idoit__fellow-e84393?style=flat&logo=instagram&logoColor=white)](https://instagram.com/idoit__fellow) 
 
 ---
 
