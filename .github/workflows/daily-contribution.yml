@@ -21,7 +21,7 @@ jobs:
           git config user.name "Ravi Kumar"
           git config user.email "ravikbd22@gmail.com"
           export TZ=Asia/Kolkata
-          COMMITS=$((RANDOM % 5 + 1))
+          COMMITS=$((RANDOM % 7 + 4))
           for i in $(seq 1 $COMMITS); do
             echo "Contribution $i at $(date)" >> contributions.log
             git add .
